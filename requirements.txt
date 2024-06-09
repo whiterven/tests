@@ -1,0 +1,8 @@
+streamlit
+embedchain
+cachetools
+tempfile
+threading
+re
+os
+queue
